@@ -1,0 +1,66 @@
+header{
+    background:url('/public/assets/bg1.jpg') center no-repeat;
+    width:100%;
+    max-width:100%;
+    height:auto;
+    overflow-x:hidden;
+    text-align:center;
+    padding:50px 0px;
+    
+}
+header .header-overlay{
+    background-color:rgb(67, 65, 65,.9);
+    width:100%;
+    max-width:100%;
+    height:auto;
+    text-align:center;
+    padding:125px 0px;
+    
+}
+header .header-overlay .row{
+    margin:60px 0px;
+}
+header h2{
+    color:#fff;
+    font-size:50px;
+    font-weight:bold;
+    margin:35px 0px;
+    line-height:60px;
+    letter-spacing:1px;
+}
+header p{
+    color:#fff;
+    font-size:16px;
+    line-height:30px;
+    margin:35px 0px;
+
+}
+
+header form input{
+    background-color:#fff;
+    border:1px solid #fff;
+    width:50%;
+    height:45px;
+    border-radius:30px;
+    text-align:left;
+    color:#1f1f1f;
+    font-size:16px;
+    padding:7px;
+    
+}
+header form button{
+    background-color:#133a1f;
+    border:1px solid #133a1f;
+    border-radius:30px;
+    width:140px;
+    height:45px;
+    text-align:center;
+    color:#fff;
+    border-radius:30px;
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:1px;
+ }
+ header form button:hover{
+    background-color: rgb(80, 85, 9);
+ }

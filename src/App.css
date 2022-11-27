@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,100;1,300;1,400;1,700;1,900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family:'Poppins',sans-serif;
+  transition:.3s ease;
+}
+.App{
+  background: palegreen;
+  height:100vh;
+}
+
+
+html{
+  font-size:90%;
+}
